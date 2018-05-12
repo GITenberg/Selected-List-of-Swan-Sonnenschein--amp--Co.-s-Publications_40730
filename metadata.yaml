@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '40798'
     url: http://www.gutenberg.org/2009/agents/40798
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40730#Selected-List-of-Swan-Sonnenschein--amp--Co.-s-Publications
 gutenberg_issued: '2012-09-11'
 gutenberg_type: Text
 identifiers:
