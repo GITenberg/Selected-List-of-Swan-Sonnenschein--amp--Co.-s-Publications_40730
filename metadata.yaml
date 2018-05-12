@@ -1,0 +1,30 @@
+_repo: Selected-List-of-Swan-Sonnenschein--amp--Co.-s-Publications_40730
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swan Sonnenschein & Co.
+    aliases:
+    - Sonnenschein & Co.
+    - Sonnenschein (Swan) and Company, London
+    - Swan Sonnenschein and Company
+    - W. Swan Sonnenschein & Co.
+    gutenberg_agent_id: '40798'
+    url: http://www.gutenberg.org/2009/agents/40798
+description: ''
+gutenberg_issued: '2012-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Publishers'' catalogs -- England -- London'
+- !lcsh 'Swan Sonnenschein & Co. -- Catalogs'
+title: Selected List of Swan Sonnenschein & Co.'s Publications
+url: http://www.gutenberg.org/ebooks/40730
